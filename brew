@@ -1,0 +1,110 @@
+#!/bin/bash
+
+# Taken from https://github.com/mathiasbynens/dotfiles/blob/master/.brew
+# By way of proxy through https://github.com/jacobian/dotfiles/blob/master/.brew
+
+# Tap some kegs
+brew tap homebrew/versions
+brew tap phinze/homebrew-cask
+
+# Make sure we're up-to-date
+brew update
+
+# Now all the awesome stuff. Unfortunately the order here kinda matters
+# because of how things build. Ick. So, prereqs:
+brew install coreutils
+brew install sqlite
+brew install readline
+
+# Other stuff:
+brew install ack
+brew install ascii
+brew install autoconf
+brew install automake
+brew install cmake
+brew install cowsay
+brew install emacs
+brew install erlang
+brew install ffmpeg
+brew install freetype
+brew install gdbm
+brew install gettext
+brew install gist
+brew install git-flow
+brew install gnu-time
+brew install graphviz
+brew install heroku-toolbelt
+brew install hub
+brew install jmeter
+brew install jpeg
+brew install lftp
+brew install libevent
+brew install libffi
+brew install libpng
+brew install libsvg
+brew install libtool
+brew install markdown
+brew install mcrypt
+brew install memcached
+brew install mercurial
+brew install mongodb
+brew install mtr
+brew install mysql
+brew install nmap
+brew install node
+brew install ossp-uuid
+brew install phantomjs
+brew install pidof
+brew insatll pkg-config
+brew install png2ico
+brew install pwgen
+brew install pypy
+brew install python
+brew install python3
+brew install python32
+brew install rabbitmq
+brew install redis
+brew install sbcl
+brew install solr
+brew install tree
+brew install wget
+brew install youtube-dl
+
+# Native apps
+brew install brew-cask
+function installcask() {
+    if brew cask info "${@}" | grep "Not installed" > /dev/null; then
+        brew cask install "${@}"
+    else
+        echo "${@} is already installed."
+    fi
+}
+
+installcask alfred
+installcask arq
+installcask bartender
+installcask bit-torrent-sync
+installcask charles
+installcask coconutbattery
+installcask dropbox
+installcask fantastical
+installcask firefox
+installcask gitx-l
+installcask google-chrome
+installcask google-chrome-canary
+installcask google-drive
+installcask handbrake
+installcask iterm2
+installcask menu-meters
+installcask nv-alt
+installcask pgadmin3
+installcask postgres
+installcask propane
+installcask rdio
+installcask sequel-pro
+installcask slate
+installcask sourcetree
+installcask vagrant
+installcask versions
+installcask vlc
+installcask virtualbox

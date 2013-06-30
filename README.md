@@ -1,0 +1,4 @@
+~/.*
+====
+
+OS X specific configuration.
