@@ -30,11 +30,11 @@ echo "####### installing git"
 brew install git
 
 echo "####### homebrewing the world"
-sh ~/.brew
+bash ~/.brew
 
 echo "####### python"
 pip install -U pip
 pip install -r .requirements.txt
 
 echo "####### fixing osx"
-sh ~/.osx
+bash ~/.osx
