@@ -18,6 +18,7 @@ brew install readline
 
 # Other stuff:
 brew install ack
+brew install apple-gcc42
 brew install ascii
 brew install autoconf
 brew install automake
@@ -39,10 +40,13 @@ brew install jmeter
 brew install jpeg
 brew install lftp
 brew install libevent
+brew install libgpg-error
 brew install libffi
+brew install libksba
 brew install libpng
 brew install libsvg
 brew install libtool
+brew install libyaml
 brew install markdown
 brew install mcrypt
 brew install memcached
@@ -52,6 +56,7 @@ brew install mtr
 brew install mysql
 brew install nmap
 brew install node
+brew install openssl
 brew install ossp-uuid
 brew install phantomjs
 brew install pidof
