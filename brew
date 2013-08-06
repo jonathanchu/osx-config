@@ -6,6 +6,7 @@
 # Tap some kegs
 brew tap homebrew/versions
 brew tap phinze/homebrew-cask
+brew tap josegonzalez/php
 
 # Make sure we're up-to-date
 brew update
@@ -59,6 +60,7 @@ brew install node
 brew install openssl
 brew install ossp-uuid
 brew install phantomjs
+brew install php55-mcrypt
 brew install pidof
 brew insatll pkg-config
 brew install png2ico
