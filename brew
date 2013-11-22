@@ -60,7 +60,9 @@ brew install node
 brew install openssl
 brew install ossp-uuid
 brew install phantomjs
+brew install php55 --with-mysql --with-pgsql
 brew install php55-mcrypt
+brew install phppgadmin
 brew install pidof
 brew insatll pkg-config
 brew install png2ico
@@ -102,6 +104,7 @@ installcask google-chrome
 installcask google-chrome-canary
 installcask google-drive
 installcask handbrake
+installcask hipchat
 installcask iterm2
 installcask menu-meters
 installcask nv-alt
@@ -112,7 +115,9 @@ installcask rdio
 installcask sequel-pro
 installcask slate
 installcask sourcetree
+installcask sqwiggle
 installcask vagrant
 installcask versions
 installcask vlc
 installcask virtualbox
+installcask zooom
