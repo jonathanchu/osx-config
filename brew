@@ -106,8 +106,9 @@ installcask google-drive
 installcask handbrake
 installcask hipchat
 installcask iterm2
-installcask menu-meters
-installcask nv-alt
+installcask mailplane
+installcask menumeters
+installcask nvalt
 installcask pgadmin3
 installcask postgres
 installcask propane
