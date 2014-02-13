@@ -34,7 +34,7 @@ bash ~/.brew
 
 echo "####### python"
 pip install -U pip
-pip install -r .requirements.txt
+pip install -r ~/.requirements.txt
 
 echo "####### fixing osx"
 bash ~/.osx
