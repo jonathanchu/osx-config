@@ -115,6 +115,7 @@ installcask propane
 installcask rdio
 installcask sequel-pro
 installcask slate
+installcask smcfancontrol
 installcask sourcetree
 installcask sqwiggle
 installcask vagrant
