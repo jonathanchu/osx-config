@@ -90,6 +90,7 @@ function installcask() {
     fi
 }
 
+installcask adium
 installcask alfred
 installcask arq
 installcask bartender
