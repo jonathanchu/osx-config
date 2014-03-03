@@ -119,6 +119,7 @@ installcask slate
 installcask smcfancontrol
 installcask sourcetree
 installcask sqwiggle
+installcask unrarx
 installcask vagrant
 installcask versions
 installcask vlc
