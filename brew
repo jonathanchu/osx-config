@@ -77,6 +77,7 @@ brew install sbcl
 brew install solr
 brew install ssh-copy-id
 brew install tree
+brew install watch
 brew install wget
 brew install youtube-dl
 
