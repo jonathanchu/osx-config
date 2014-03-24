@@ -28,7 +28,6 @@ brew install cowsay
 brew install emacs
 brew install erlang
 brew install ffmpeg
-brew install flickr-uploadr
 brew install freetype
 brew install gdbm
 brew install gettext
@@ -102,6 +101,7 @@ installcask coconutbattery
 installcask dropbox
 installcask fantastical
 installcask firefox
+installcask flickr-uploadr
 installcask gitx-l
 installcask google-chrome
 installcask google-chrome-canary
