@@ -108,6 +108,7 @@ installcask google-chrome-canary
 installcask google-drive
 installcask handbrake
 installcask hipchat
+installcask imageoptim
 installcask iterm2
 installcask mailplane
 installcask menumeters
