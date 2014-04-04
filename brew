@@ -80,6 +80,7 @@ brew install tree
 brew install watch
 brew install wget
 brew install youtube-dl
+brew install zmq
 
 # Native apps
 brew install brew-cask
