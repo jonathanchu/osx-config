@@ -112,6 +112,7 @@ installcask handbrake
 installcask hipchat
 installcask imageoptim
 installcask iterm2
+installcask kaleidoscope
 installcask mailplane
 installcask menumeters
 installcask nvalt
