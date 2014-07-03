@@ -94,9 +94,10 @@ function installcask() {
 
 installcask adium
 installcask alfred
+installcask all2mp3
 installcask arq
 installcask bartender
-installcask bit-torrent-sync
+installcask bittorrent-sync
 installcask charles
 installcask coconutbattery
 installcask dropbox
