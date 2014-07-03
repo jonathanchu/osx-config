@@ -110,6 +110,7 @@ installcask gitx-l
 installcask google-chrome
 installcask google-drive
 installcask handbrake
+installcask heroku-toolbelt
 installcask hipchat
 installcask imageoptim
 installcask iterm2
