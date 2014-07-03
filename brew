@@ -101,13 +101,13 @@ installcask bittorrent-sync
 installcask charles
 installcask coconutbattery
 installcask dropbox
+installcask emacs
 installcask fantastical
 installcask firefox
 installcask flickr-uploadr
 installcask github
 installcask gitx-l
 installcask google-chrome
-installcask google-chrome-canary
 installcask google-drive
 installcask handbrake
 installcask hipchat
