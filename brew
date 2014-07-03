@@ -123,6 +123,7 @@ installcask pgadmin3
 installcask postgres
 installcask propane
 installcask rdio
+installcask screenhero
 installcask sequel-pro
 installcask slate
 installcask smcfancontrol
