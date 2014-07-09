@@ -137,4 +137,5 @@ installcask vagrant
 installcask versions
 installcask vlc
 installcask virtualbox
+installcask xquartz
 installcask zooom
