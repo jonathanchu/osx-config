@@ -6,7 +6,6 @@
 # Tap some kegs
 brew tap homebrew/versions
 brew tap phinze/homebrew-cask
-brew tap josegonzalez/php
 brew tap homebrew/science
 
 # Make sure we're up-to-date
@@ -63,9 +62,6 @@ brew install octave --without-docs
 brew install openssl
 brew install ossp-uuid
 brew install phantomjs
-brew install php55 --with-mysql --with-pgsql
-brew install php55-mcrypt
-brew install phppgadmin
 brew install pidof
 brew insatll pkg-config
 brew install png2ico
