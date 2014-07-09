@@ -7,6 +7,7 @@
 brew tap homebrew/versions
 brew tap phinze/homebrew-cask
 brew tap josegonzalez/php
+brew tap homebrew/science
 
 # Make sure we're up-to-date
 brew update
@@ -58,6 +59,7 @@ brew install mtr
 brew install mysql
 brew install nmap
 brew install node
+brew install octave --without-docs
 brew install openssl
 brew install ossp-uuid
 brew install phantomjs
