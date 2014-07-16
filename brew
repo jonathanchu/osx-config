@@ -115,6 +115,7 @@ installcask imageoptim
 installcask iterm2
 installcask kaleidoscope
 installcask licecap
+installcask liteicon
 installcask mailplane
 installcask menumeters
 installcask nvalt
