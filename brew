@@ -104,6 +104,7 @@ installcask emacs
 installcask fantastical
 installcask firefox
 installcask flickr-uploadr
+installcask fluid
 installcask github
 installcask gitx-l
 installcask google-chrome
