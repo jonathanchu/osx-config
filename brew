@@ -45,6 +45,7 @@ brew install libevent
 brew install libgpg-error
 brew install libffi
 brew install libksba
+brew install libmemcached
 brew install libpng
 brew install libsvg
 brew install libtool
