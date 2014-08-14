@@ -120,6 +120,7 @@ installcask licecap
 installcask liteicon
 installcask mailplane
 installcask menumeters
+installcask mou
 installcask nvalt
 installcask pgadmin3
 installcask postgres
