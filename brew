@@ -75,6 +75,7 @@ brew install python32
 brew install rabbitmq
 brew install redis
 brew install sbcl
+brew install selecta
 brew install solr
 brew install ssh-copy-id
 brew install tree
