@@ -66,6 +66,7 @@ brew install phantomjs
 brew install pidof
 brew insatll pkg-config
 brew install png2ico
+brew install pngquant
 brew install pwgen
 brew install pypy
 brew install python
