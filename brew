@@ -123,6 +123,7 @@ installcask mailplane
 installcask menumeters
 installcask mou
 installcask nvalt
+installcask peepopen
 installcask pgadmin3
 installcask postgres
 installcask propane
