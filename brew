@@ -34,7 +34,6 @@ brew install gettext
 brew install gist
 brew install git-flow
 brew install gnu-time
-brew install graphviz
 brew install gpg
 brew install heroku-toolbelt
 brew install hub
