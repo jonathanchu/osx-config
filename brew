@@ -89,12 +89,10 @@ function installcask() {
     fi
 }
 
-installcask adium
 installcask alfred
 installcask all2mp3
 installcask arq
 installcask bartender
-installcask bittorrent-sync
 installcask charles
 installcask coconutbattery
 installcask dropbox
@@ -114,7 +112,6 @@ installcask imageoptim
 installcask iterm2
 installcask kaleidoscope
 installcask licecap
-installcask liteicon
 installcask mailplane
 installcask menumeters
 installcask mou
@@ -122,16 +119,12 @@ installcask nvalt
 installcask peepopen
 installcask pgadmin3
 installcask postgres
-installcask propane
 installcask rdio
 installcask screenhero
 installcask sequel-pro
 installcask slate
 installcask smcfancontrol
 installcask sourcetree
-installcask sqwiggle
-installcask unrarx
-installcask vagrant
 installcask versions
 installcask vlc
 installcask virtualbox
