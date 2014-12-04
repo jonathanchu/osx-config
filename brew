@@ -31,7 +31,6 @@ brew install freetype
 brew install gdbm
 brew install gettext
 brew install gist
-brew install git-flow
 brew install gnu-time
 brew install gpg
 brew install heroku-toolbelt
