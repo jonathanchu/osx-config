@@ -26,7 +26,6 @@ brew install automake
 brew install cmake
 brew install cowsay
 brew install emacs
-brew install erlang
 brew install ffmpeg
 brew install freetype
 brew install gdbm
