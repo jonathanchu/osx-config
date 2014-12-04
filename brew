@@ -57,7 +57,6 @@ brew install mtr
 brew install mysql
 brew install nmap
 brew install node
-brew install octave --without-docs
 brew install openssl
 brew install ossp-uuid
 brew install phantomjs
