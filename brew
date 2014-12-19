@@ -128,6 +128,7 @@ installcask sequel-pro
 installcask slate
 installcask smcfancontrol
 installcask sourcetree
+installcask sqwiggle
 installcask versions
 installcask vlc
 installcask virtualbox
