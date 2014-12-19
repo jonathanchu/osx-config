@@ -19,6 +19,7 @@ brew install readline
 
 # Other stuff:
 brew install ack
+brew install ag
 brew install apple-gcc42
 brew install ascii
 brew install autoconf
