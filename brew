@@ -27,6 +27,7 @@ brew install cmake
 brew install cowsay
 brew install emacs
 brew install ffmpeg
+brew install fish
 brew install freetype
 brew install gdbm
 brew install gettext
