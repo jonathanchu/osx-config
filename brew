@@ -6,6 +6,7 @@
 # Tap some kegs
 brew tap homebrew/versions
 brew tap homebrew/science
+brew tap caskroom/fonts
 
 # Make sure we're up-to-date
 brew update
@@ -81,6 +82,9 @@ brew install watch
 brew install wget
 brew install youtube-dl
 brew install zmq
+
+# Fonts
+brew cask install font-inconsolata
 
 # Native apps
 brew install brew-cask
