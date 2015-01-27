@@ -100,6 +100,7 @@ function installcask() {
 installcask alfred
 installcask all2mp3
 installcask arq
+installcask atom
 installcask bartender
 installcask charles
 installcask coconutbattery
