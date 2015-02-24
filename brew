@@ -40,6 +40,7 @@ brew install gpg
 brew install heroku-toolbelt
 brew install hub
 brew install jpeg
+brew install jq
 brew install lftp
 brew install libevent
 brew install libgpg-error
