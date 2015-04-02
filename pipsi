@@ -4,3 +4,4 @@ pipsi install bpython
 pipsi install cookiecutter
 pipsi install fabric
 pipsi install httpie
+pipsi install tox
