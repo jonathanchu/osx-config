@@ -1,5 +1,6 @@
 #!/bin/bash
 
+pipsi install ansible
 pipsi install bpython
 pipsi install cookiecutter
 pipsi install fabric
