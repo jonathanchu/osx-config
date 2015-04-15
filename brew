@@ -83,6 +83,7 @@ brew install tig
 brew install tmux
 brew install tree
 brew install watch
+brew install webkit2png
 brew install wget
 brew install youtube-dl
 brew install zmq
