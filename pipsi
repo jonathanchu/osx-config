@@ -4,6 +4,7 @@ pipsi install ansible
 pipsi install bpython
 pipsi install cookiecutter
 pipsi install fabric
+pipsi install flake8
 pipsi install httpie
 pipsi install 'git+git://github.com/pre-commit/pre-commit-hooks.git#egg=pre-commit-hooks'
 pipsi install tox
