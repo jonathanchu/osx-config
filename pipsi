@@ -8,6 +8,7 @@ pipsi install flake8
 pipsi install httpie
 pipsi install invoke
 pipsi install lice
+pipsi install supervisor
 pipsi install tox
 
 pipsi install 'git+git://github.com/pre-commit/pre-commit-hooks.git#egg=pre-commit-hooks'
