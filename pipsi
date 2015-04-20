@@ -10,5 +10,6 @@ pipsi install invoke
 pipsi install lice
 pipsi install supervisor
 pipsi install tox
+pipsi install twine
 
 pipsi install 'git+git://github.com/pre-commit/pre-commit-hooks.git#egg=pre-commit-hooks'
