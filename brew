@@ -132,6 +132,7 @@ installcask postgres
 installcask postico
 installcask rdio
 installcask screenhero
+installcask screenstagram
 installcask sequel-pro
 installcask slate
 installcask smcfancontrol
