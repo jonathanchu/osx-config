@@ -42,5 +42,5 @@ bash ~/.osx
 echo "####### installing pipsi"
 curl https://raw.githubusercontent.com/mitsuhiko/pipsi/master/get-pipsi.py | python
 
-echo "####### installing pipsi"
+echo "####### installing pipsi packages"
 bash ~/.pipsi
