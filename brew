@@ -64,7 +64,7 @@ brew install node
 brew install openssl
 brew install ossp-uuid
 brew install pidof
-brew insatll pkg-config
+brew install pkg-config
 brew install png2ico
 brew install pngquant
 brew install pwgen
