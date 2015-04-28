@@ -140,6 +140,5 @@ installcask sourcetree
 installcask sqwiggle
 installcask versions
 installcask vlc
-installcask virtualbox
 installcask xquartz
 installcask zooom
