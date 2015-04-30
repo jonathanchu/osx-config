@@ -27,7 +27,7 @@ brew install automake
 brew install cmake
 brew install cowsay
 brew install direnv
-brew install emacs
+brew install emacs --with-cocoa
 brew install ffmpeg
 brew install fish
 brew install freetype
