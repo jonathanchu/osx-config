@@ -109,7 +109,6 @@ installcask bartender
 installcask charles
 installcask coconutbattery
 installcask dropbox
-installcask emacs
 installcask firefox
 installcask fluid
 installcask github
