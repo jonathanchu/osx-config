@@ -146,6 +146,9 @@ systemsetup -settimezone "America/New_York" > /dev/null
 # Disable auto-correct
 defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
 
+# Play feedback when volume is changed
+defaults write -g 'com.apple.sound.beep.feedback' -bool true
+
 ###############################################################################
 # Screen                                                                      #
 ###############################################################################
