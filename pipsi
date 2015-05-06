@@ -9,6 +9,7 @@ pipsi install httpie
 pipsi install invoke
 pipsi install ipython
 pipsi install lice
+pipsi install pygments
 pipsi install sr
 pipsi install supervisor
 pipsi install tox
