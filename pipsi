@@ -5,6 +5,7 @@ pipsi install bpython
 pipsi install cookiecutter
 pipsi install fabric
 pipsi install flake8
+pipsi install glances
 pipsi install httpie
 pipsi install invoke
 pipsi install ipython
