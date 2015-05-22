@@ -44,3 +44,6 @@ curl https://raw.githubusercontent.com/mitsuhiko/pipsi/master/get-pipsi.py | pyt
 
 echo "####### installing pipsi packages"
 bash ~/.pipsi
+
+echo "####### installing jshint globally via npm"
+npm install -g jshint
