@@ -76,7 +76,6 @@ brew install redis
 brew install ruby
 brew install sbcl
 brew install selecta
-brew install solr
 brew install ssh-copy-id
 brew install tig
 brew install tmux
