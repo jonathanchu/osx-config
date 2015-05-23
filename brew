@@ -112,7 +112,7 @@ installcask dropbox
 installcask firefox
 installcask fluid
 installcask github
-installcask gitx-l
+installcask laullon-gitx
 installcask google-drive
 installcask handbrake
 installcask heroku-toolbelt
