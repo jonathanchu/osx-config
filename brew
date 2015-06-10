@@ -118,6 +118,7 @@ installcask handbrake
 installcask heroku-toolbelt
 installcask imageoptim
 installcask iterm2
+installcask java
 installcask kaleidoscope
 installcask licecap
 installcask mailplane
