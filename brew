@@ -111,6 +111,7 @@ installcask coconutbattery
 installcask dropbox
 installcask firefox
 installcask fluid
+installcask flux
 installcask github
 installcask laullon-gitx
 installcask google-drive
