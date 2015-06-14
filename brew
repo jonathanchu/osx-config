@@ -123,6 +123,7 @@ installcask java
 installcask kaleidoscope
 installcask licecap
 installcask mailplane
+installcask mactex
 installcask menumeters
 installcask mou
 installcask nvalt
