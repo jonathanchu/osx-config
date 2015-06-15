@@ -13,6 +13,7 @@ pipsi install --python python3 invoke
 pipsi install ipython
 pipsi install lice
 pipsi install pygments
+pipsi install python-fu
 pipsi install sr
 pipsi install supervisor
 pipsi install tox
