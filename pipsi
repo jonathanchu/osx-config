@@ -2,6 +2,7 @@
 set -e
 
 pipsi install ansible
+pipsi install autopep8
 pipsi install bpython
 pipsi install cookiecutter
 pipsi install fabric
