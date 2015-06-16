@@ -38,6 +38,3 @@ pip install -r ~/.requirements.txt
 
 echo "####### fixing osx"
 bash ~/.osx
-
-echo "####### installing jshint globally via npm"
-npm install -g jshint
