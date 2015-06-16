@@ -32,9 +32,5 @@ brew install git
 echo "####### homebrewing the world"
 bash ~/.brew
 
-echo "####### python"
-pip install -U pip
-pip install -r ~/.requirements.txt
-
 echo "####### fixing osx"
 bash ~/.osx
