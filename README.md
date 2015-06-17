@@ -3,6 +3,8 @@
 
 OS X specific configuration.
 
+**PLEASE NOTE**
+
 This repo has been moved to
 [dotfiles](https://github.com/jonathanchu/dotfiles).
 
