@@ -23,8 +23,5 @@ done
 # Bootstrap the environment
 # Taken from https://github.com/jacobian/dotfiles/blob/master/bin/bootstrap.sh
 
-echo "####### homebrewing the world"
-bash ~/.brew
-
 echo "####### fixing osx"
 bash ~/.osx
