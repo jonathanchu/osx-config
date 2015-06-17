@@ -23,9 +23,6 @@ done
 # Bootstrap the environment
 # Taken from https://github.com/jacobian/dotfiles/blob/master/bin/bootstrap.sh
 
-echo "####### installing homebrew"
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 echo "####### installing git"
 brew install git
 
