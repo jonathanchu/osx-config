@@ -23,9 +23,6 @@ done
 # Bootstrap the environment
 # Taken from https://github.com/jacobian/dotfiles/blob/master/bin/bootstrap.sh
 
-echo "####### installing git"
-brew install git
-
 echo "####### homebrewing the world"
 bash ~/.brew
 
