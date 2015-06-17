@@ -19,6 +19,3 @@ for name in *; do
     echo "Linked $PWD/$name to $target."
   fi
 done
-
-# Bootstrap the environment
-# Taken from https://github.com/jacobian/dotfiles/blob/master/bin/bootstrap.sh
